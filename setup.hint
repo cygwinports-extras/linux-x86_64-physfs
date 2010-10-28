@@ -1,0 +1,3 @@
+category: Devel
+requires: linux-i686-glibc linux-i686-zlib
+sdesc: "libphysfs for Linux i686 toolchain"
